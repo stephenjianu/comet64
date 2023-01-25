@@ -1,0 +1,27 @@
+{
+    "name" : "Comet64",
+
+    "cursorColor": "#b7a88e",
+    "selectionBackground": "#b7a88e",
+
+    "background" : "#1f292b",
+    "foreground" : "#a99b81",
+
+    "black" : "#2a3436C",
+    "blue" : "#8186a9",
+    "cyan" : "#81a9a8",
+    "green" : "#81a984",
+    "purple" : "#67445f",
+    "red" : "#674444",
+    "white" : "#fff3d7",
+    "yellow" : "#676744",
+    "brightBlack" : "#1f292b",
+    "brightBlue" : "#a99b81",
+    "brightCyan" : "#b7a88e",
+    "brightGreen" : "#636e71",
+    "brightPurple" : "#a981a1",
+    "brightRed" : "#a98181",
+    "brightWhite" : "#ffffe5",
+    "brightYellow" : "#6f7b7d"
+},
+
