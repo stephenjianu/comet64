@@ -1,0 +1,28 @@
+# Colors (Comet 64)
+colors:
+  # Default colors
+  primary:
+    background: '0x1f292b'
+    foreground: '0xa99b81'
+
+  # Normal colors
+  normal:
+    black:   '0x2a3436'
+    red:     '0x674444'
+    green:   '0x81a984'
+    yellow:  '0x676744'
+    blue:    '0x8186a9'
+    magenta: '0x67445f'
+    cyan:    '0x81a9a8'
+    white:   '0xfff3d7'
+
+  # Bright colors
+  bright:
+    black:   '0x1f292b'
+    red:     '0xa98181'
+    green:   '0x636e71'
+    yellow:  '0x6f7b7d'
+    blue:    '0xa99b81'
+    magenta: '0xa981a1'
+    cyan:    '0xb7a88e'
+    white:   '0xffffe5'
