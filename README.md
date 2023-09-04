@@ -9,3 +9,4 @@ This theme is currently available for the following software:
 * [Termux](https://github.com/termux/termux-app)
 * [Alacritty](https://github.com/alacritty/alacritty)
 * [Zathura](https://git.pwmt.org/pwmt/zathura)
+* [mintty](https://mintty.github.io)
